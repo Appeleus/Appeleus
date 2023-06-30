@@ -4,9 +4,9 @@
 <h1></h1>
 <hr>
 
-<table table align="center" width=100% border="5px">
+<table table align="center" border="0px">
 <tr>
-    <td text align="right">
+    <td text align="right" width=100%>
         <a href = "https://github.com/Appeleus">
             <img src="Asset/gh.png" alt="Github" width=40px img align="right">
             <sub>GITHUB &nbsp;</sub>
