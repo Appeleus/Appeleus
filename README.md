@@ -6,18 +6,20 @@
 
 <table table align="center"  border="0px" >
 <tr>
-    <a href = "https://github.com/Appeleus">
-        <td text align="right" width=200px>
-            <img src="Asset/gh.png" alt="Github" width=40px img align="right">
-            <sub>GITHUB&nbsp;</sub>
-        </td>
-    </a>
-    <a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-        <td text align="left" width=200px>
+    <td text align="right" width=200px>
+        <a href = "https://github.com/Appeleus">
+            <div>
+                <img src="Asset/gh.png" alt="Github" width=40px img align="right">
+                <sub>GITHUB&nbsp;</sub>
+            </div>
+        </a>
+    </td>
+    <td text align="left" width=200px>
+        <a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
             <img src="Asset/Canva.png" alt="Portfolio" width=40px img align="left">
             <sub>&nbsp;PORTFOLIO</sub>
-        </td>
-    </a>
+        </a>
+    </td>
 </tr>
 
 <tr >
