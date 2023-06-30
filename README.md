@@ -9,13 +9,13 @@
     <td text align="right" width=200px>
         <a href = "https://github.com/Appeleus">
             <img src="Asset/gh.png" alt="Github" width=40px img align="right">
-            <sub>GITHUB &nbsp;</sub>
+            <h2><sub>GITHUB &nbsp;</sub></h2>
         </a>
     </td>
     <td text align="left" width=200px>
         <a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
             <img src="Asset/Canva.png" alt="Portfolio" width=40px img align="left">
-            <sub>&nbsp;PORTFOLIO</sub>
+            <h2><sub>&nbsp;PORTFOLIO</sub>
         </a>
     </td>
 </tr>
