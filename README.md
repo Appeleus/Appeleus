@@ -47,9 +47,8 @@
 <hr>
 <h1></h1>
 
-
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Appeleus&label=Profile%20Views&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=Appeleus&label=Profile%20Views&icon=0&pretty=false" alt="This button has been sitting here for.... I don't know." width=200px img align="center" />
 </a>
 
 
