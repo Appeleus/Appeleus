@@ -19,13 +19,13 @@
 </a>
 
 <a href = "https://twitter.com/TanoshiiRinko">
-    <img src="Asset/twitter.png" alt="Twitter" width=40px img align="right">
+    <img src="Asset/Twitter.png" alt="Twitter" width=40px img align="right">
 
 <h1><sub>TWITTER&nbsp;</sub></h1>
 </a>
 
 <a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img src="Asset/canva.png" alt="Portfolio" width=40px img align="right">
+    <img src="Asset/Canva.png" alt="Portfolio" width=40px img align="right">
 
 <h1><sub>PORTFOLIO&nbsp;</sub></h1>
 </a>
