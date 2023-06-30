@@ -1,18 +1,37 @@
-<!--
-**Appeleus/Appeleus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Pushing The Boundaries 🍎🎹🎨🦈📑 ;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-# Uhhh, I'm customizing my profile page. It's gonna look fabulous. 
-# **Be my guest!**
+<img src="Asset/Sakamata_Swim_Fin.png" alt="Banner">
+<h1></h1>
+
+<span text align="right">
+<a href = "https://github.com/Appeleus" >
+    <img src="Asset/gh.png" alt="Github" width=40px img align="right">
+
+<h1><sub>GITHUB&nbsp;</sub></h1>
+
+</a>
+
+<a href = "https://www.youtube.com/@TanoshiiRinko/featured">
+    <img src="Asset/yt.png" alt="Youtube" width=40px img align="right">
+
+<h1><sub>YOUTUBE&nbsp;</sub></h1>
+</a>
+
+<a href = "https://twitter.com/TanoshiiRinko">
+    <img src="Asset/twitter.png" alt="Twitter" width=40px img align="right">
+
+<h1><sub>TWITTER&nbsp;</sub></h1>
+</a>
+
+<a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img src="Asset/canva.png" alt="Portfolio" width=40px img align="right">
+
+<h1><sub>PORTFOLIO&nbsp;</sub></h1>
+</a>
+
+</span>
+
+
+
 
