@@ -10,7 +10,7 @@
         <a href = "https://github.com/Appeleus">
             <div>
                 <img src="Asset/gh.png" alt="Github" width=40px img align="right">
-                <sub>GITHUB&nbsp;</sub>
+                <b><sub>GITHUB - &nbsp;</sub></b>
             </div>
         </a>
     </td>
@@ -18,18 +18,18 @@
         <a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
             <div>
                 <img src="Asset/Canva.png" alt="Portfolio" width=40px img align="left">
-                <sub>&nbsp;PORTFOLIO</sub>
+                <b><sub>&nbsp; - PORTFOLIO</sub></b>
             </div>
         </a>
     </td>
 </tr>
 
 <tr>
-    <td text align="right" width=200px>
-        <a href = "https://twitter.com/TanoshiiRinko">
+    <td text align="right" width=200px >
+        <a href = "https://twitter.com/TanoshiiRinko" >
             <div>
                 <img src="Asset/Twitter.png" alt="Twitter" width=40px img align="right">
-                <sub>TWITTER&nbsp;</sub>
+                <b><sub>TWITTER - &nbsp;</sub></b>
             </div>
         </a>
     </td>
@@ -37,7 +37,7 @@
         <a href = "https://www.youtube.com/@TanoshiiRinko/featured">
             <div>
                 <img src="Asset/yt.png" alt="Youtube" width=40px img align="left">
-                <sub>&nbsp;YOUTUBE</sub>
+                <b><sub>&nbsp; - YOUTUBE</sub></b>
             </div>
         </a>
     </td>
@@ -47,10 +47,8 @@
 <hr>
 <h1></h1>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Appeleus&label=Profile%20Views&icon=0&pretty=false" alt="This button has been sitting here for.... I don't know." width=200px img align="center" />
-</a>
-
+## I'm glad you visit my profile. Welcome!
+> Currently interested in animated website and mobile application.
 
 
 
