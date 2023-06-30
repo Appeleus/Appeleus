@@ -48,7 +48,12 @@
 <h1></h1>
 
 ## I'm glad you visit my profile. Welcome!
-> Currently interested in animated website and mobile application.
+---
+> Every journey is definitely going to be tough, but at least give it a try.
+---
+> Don't be out there looking at others' work too much, it will discourage you real hard. Instead, make one yourself.
+---
+
 
 
 
