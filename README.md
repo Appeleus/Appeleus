@@ -9,13 +9,13 @@
     <td text align="right" width=200px>
         <a href = "https://github.com/Appeleus">
             <img src="Asset/gh.png" alt="Github" width=40px img align="right">
-            <sub>GITHUB &nbsp;</sub>
+            <sub>GITHUB&nbsp;</sub>
         </a>
     </td>
     <td text align="left" width=200px>
         <a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
             <img src="Asset/Canva.png" alt="Portfolio" width=40px img align="left">
-            &nbsp;PORTFOLIO
+            <sub>&nbsp;PORTFOLIO</sub>
         </a>
     </td>
 </tr>
@@ -24,13 +24,13 @@
     <td text align="right" width=200px>
         <a href = "https://twitter.com/TanoshiiRinko">
             <img src="Asset/Twitter.png" alt="Twitter" width=40px img align="right">
-            <h2>TWITTER&nbsp;</h2>
+            <sub>TWITTER&nbsp;</sub>
         </a>
     </td>
     <td text align="left" width=200px>
         <a href = "https://www.youtube.com/@TanoshiiRinko/featured">
             <img src="Asset/yt.png" alt="Youtube" width=40px img align="left">
-            <h2>&nbsp;YOUTUBE
+            <sub>&nbsp;YOUTUBE</sub>
         </a>
     </td>
 </tr>
