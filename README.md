@@ -48,6 +48,9 @@
 <h1></h1>
 
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Appeleus&label=Profile%20Views&icon=0&pretty=false" />
+</a>
 
 
 
