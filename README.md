@@ -7,18 +7,18 @@
 <table table align="center"  border="0px" >
 <tr>
     <td text align="right" width=200px>
-        <a href = "https://github.com/Appeleus">
+        <a href = "https://www.freecodecamp.org/Delicious_Apple" style="text-decoration: none;">
             <div>
-                <img src="Asset/gh.png" alt="Github" width=40px img align="right">
-                <b><sub>GITHUB - &nbsp;</sub></b>
+                <img src="Asset/freeCodeCamp.png" alt="Github" width=40px img align="right">
+                <b><sub>freeCodeCamp - &nbsp;</sub></b>
             </div>
         </a>
     </td>
     <td text align="left" width=200px>
-        <a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+        <a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="text-decoration: none;">
             <div>
                 <img src="Asset/Canva.png" alt="Portfolio" width=40px img align="left">
-                <b><sub>&nbsp; - PORTFOLIO</sub></b>
+                <b><sub>&nbsp; - HOBBY</sub></b>
             </div>
         </a>
     </td>
@@ -26,7 +26,7 @@
 
 <tr>
     <td text align="right" width=200px >
-        <a href = "https://twitter.com/TanoshiiRinko" >
+        <a href = "https://twitter.com/TanoshiiRinko" style="text-decoration: none;">
             <div>
                 <img src="Asset/Twitter.png" alt="Twitter" width=40px img align="right">
                 <b><sub>TWITTER - &nbsp;</sub></b>
@@ -34,7 +34,7 @@
         </a>
     </td>
     <td text align="left" width=200px>
-        <a href = "https://www.youtube.com/@TanoshiiRinko/featured">
+        <a href = "https://www.youtube.com/@TanoshiiRinko/featured" style="text-decoration: none;">
             <div>
                 <img src="Asset/yt.png" alt="Youtube" width=40px img align="left">
                 <b><sub>&nbsp; - YOUTUBE</sub></b>
@@ -48,8 +48,7 @@
 <h1></h1>
 
 ## I'm glad you visit my profile. Welcome!
-
-
+> Currently invested in Javascript.
 
 
 
