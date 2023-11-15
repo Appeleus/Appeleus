@@ -15,10 +15,10 @@
         </a>
     </td>
     <td text align="left" width=200px>
-        <a href = "https://www.canva.com/design/DAFm702Hvfs/HrEZAMiVxlJGzSejySWYbQ/edit?utm_content=DAFm702Hvfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="text-decoration: none;">
+        <a href = "https://react-portfolio-appeleus.vercel.app/home" style="text-decoration: none;">
             <div>
-                <img src="Asset/Canva.png" alt="Portfolio" width=40px img align="left">
-                <b><sub>&nbsp; - HOBBY</sub></b>
+                <img src="Asset/Quaso_Orca.png" alt="Portfolio" width=40px img align="left">
+                <b><sub>&nbsp; - WEBSITE</sub></b>
             </div>
         </a>
     </td>
